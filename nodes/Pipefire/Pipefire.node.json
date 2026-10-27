@@ -1,0 +1,16 @@
+{
+	"node": "n8n-nodes-pipefire",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Marketing & Content",
+		"Utility"
+	],
+	"resources": {
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/mikelovatt/n8n-nodes-pipefire?tab=readme-ov-file"
+			}
+		]
+	}
+}
