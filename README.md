@@ -57,4 +57,5 @@ Each finding links to the matching Pipefire guide, so you can read why a check f
 
 ## Version history
 
+* 0.1.1: published from GitHub Actions with npm provenance.
 * 0.1.0: first release. Five operations, no credentials.
